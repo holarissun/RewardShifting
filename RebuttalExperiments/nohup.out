@@ -1,0 +1,1431 @@
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+/home/hsun/anaconda3/envs/open-mmlab/lib/python3.7/site-packages/ale_py/roms/__init__.py:89: DeprecationWarning: Automatic importing of atari-py roms won't be supported in future releases of ale-py. Please migrate over to using `ale-import-roms` OR an ALE-supported ROM package. To make this warning disappear you can run `ale-import-roms --import-from-pkg atari_py.atari_roms`.For more information see: https://github.com/mgbellemare/Arcade-Learning-Environment#rom-management
+  ROMS = resolve_roms()
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Policy: TD3, Env: HalfCheetah-v3, Seed: 0
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 1000 Episode Num: 1 Episode T: 1000 Reward: 59.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 44.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 41.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 62.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 5000 Episode Num: 5 Episode T: 1000 Reward: 38.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 6000 Episode Num: 6 Episode T: 1000 Reward: 28.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 7000 Episode Num: 7 Episode T: 1000 Reward: 26.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 8000 Episode Num: 8 Episode T: 1000 Reward: 81.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 9000 Episode Num: 9 Episode T: 1000 Reward: 36.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+Total T: 10000 Episode Num: 10 Episode T: 1000 Reward: 68.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 1.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 1.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 1.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 1.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 1.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 1.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 13.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 0.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 13.000
+Total T: 11000 Episode Num: 11 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 13.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 13.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 0.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 0.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 0.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 0.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 13.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 0.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 0.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 12.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 13.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 13.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 50.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 1.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 0.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 13.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 50.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 50.000
+Total T: 12000 Episode Num: 12 Episode T: 1000 Reward: 0.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 50.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 0.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 0.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 0.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 12.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 0.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 50.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 12.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 12.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 12.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 0.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 0.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 12.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 42.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 12.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 50.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 19.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 50.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 19.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 19.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 12.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 0.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 50.000
+Total T: 13000 Episode Num: 13 Episode T: 1000 Reward: 0.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 0.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 19.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 0.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 42.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 0.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 0.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 42.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 19.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 42.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 0.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 42.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 42.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 0.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 146.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 34.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 42.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 19.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 19.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 34.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 34.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 0.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 42.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 19.000
+Total T: 14000 Episode Num: 14 Episode T: 1000 Reward: 0.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 0.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 34.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 0.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 146.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 146.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 0.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 0.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 146.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 34.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 0.000
+---------------------------------------
+Evaluation over 10 episodes: 60.300
+---------------------------------------
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 146.000
+---------------------------------------
+Evaluation over 10 episodes: 36.400
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 36.400
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 36.400
+---------------------------------------
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 146.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 0.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 146.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 34.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 34.000
+---------------------------------------
+Evaluation over 10 episodes: 0.300
+---------------------------------------
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 0.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 146.000
+---------------------------------------
+Evaluation over 10 episodes: 60.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 36.400
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 60.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.300
+---------------------------------------
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 0.000
+Total T: 15000 Episode Num: 15 Episode T: 1000 Reward: 34.000
+---------------------------------------
+Evaluation over 10 episodes: 0.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 60.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 36.400
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 60.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 60.300
+---------------------------------------
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 49.000
+---------------------------------------
+Evaluation over 10 episodes: 0.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 60.300
+---------------------------------------
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 54.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 54.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 54.000
+---------------------------------------
+Evaluation over 10 episodes: 36.400
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 36.400
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 60.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.300
+---------------------------------------
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 0.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 49.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 54.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 0.000
+---------------------------------------
+Evaluation over 10 episodes: 0.300
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 36.400
+---------------------------------------
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 49.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 0.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 0.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 0.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 49.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 49.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 54.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 49.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 256.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 164.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 0.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 164.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 49.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 164.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 54.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 54.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 49.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 0.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 91.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 256.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 164.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 91.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 256.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 91.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 0.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 256.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 91.000
+Total T: 16000 Episode Num: 16 Episode T: 1000 Reward: 54.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 91.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 256.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 164.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 202.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 127.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 256.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 127.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 127.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 256.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 91.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 164.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 164.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 103.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 256.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 91.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 202.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 127.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 103.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 103.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 202.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 202.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 91.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 202.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 103.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 103.000
+Total T: 17000 Episode Num: 17 Episode T: 1000 Reward: 164.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 252.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 127.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 88.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 88.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 88.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 202.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 202.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 103.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 127.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 127.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 153.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 252.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 202.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 103.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 153.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 252.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 88.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 153.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 252.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 252.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 103.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 153.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 153.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 242.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 132.000
+Total T: 18000 Episode Num: 18 Episode T: 1000 Reward: 127.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 88.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 132.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 132.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 252.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 252.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 88.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 153.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 88.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 82.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 242.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 153.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 252.000
+---------------------------------------
+Evaluation over 10 episodes: 219.100
+---------------------------------------
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 82.000
+---------------------------------------
+Evaluation over 10 episodes: 156.500
+---------------------------------------
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 242.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 132.000
+---------------------------------------
+Evaluation over 10 episodes: 156.500
+---------------------------------------
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 82.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 242.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 242.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 153.000
+---------------------------------------
+Evaluation over 10 episodes: 156.500
+---------------------------------------
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 82.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 82.000
+Total T: 19000 Episode Num: 19 Episode T: 1000 Reward: 88.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 132.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 242.000
+---------------------------------------
+Evaluation over 10 episodes: 219.100
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 74.100
+---------------------------------------
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 242.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 132.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 82.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 132.000
+---------------------------------------
+Evaluation over 10 episodes: 74.100
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 219.100
+---------------------------------------
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 82.000
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 242.000
+---------------------------------------
+Evaluation over 10 episodes: 156.500
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 74.100
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 219.100
+---------------------------------------
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 238.000
+---------------------------------------
+Evaluation over 10 episodes: 219.100
+---------------------------------------
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 187.000
+---------------------------------------
+Evaluation over 10 episodes: 74.100
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 74.100
+---------------------------------------
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 187.000
+---------------------------------------
+Evaluation over 10 episodes: 156.500
+---------------------------------------
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 82.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 187.000
+---------------------------------------
+Evaluation over 10 episodes: 219.100
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 219.100
+---------------------------------------
+Total T: 20000 Episode Num: 20 Episode T: 1000 Reward: 132.000
+---------------------------------------
+Evaluation over 10 episodes: 156.500
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 74.100
+---------------------------------------
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 238.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 112.000
+---------------------------------------
+Evaluation over 10 episodes: 156.500
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 74.100
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 219.100
+---------------------------------------
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 112.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 238.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 187.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 112.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 238.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 235.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 112.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 238.000
+---------------------------------------
+Evaluation over 10 episodes: 74.100
+---------------------------------------
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 112.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 112.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 112.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 187.000
+---------------------------------------
+Evaluation over 10 episodes: 156.500
+---------------------------------------
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 238.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 112.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 238.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 187.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 112.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 235.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 126.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 187.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 112.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 126.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 238.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 235.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 171.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 189.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 235.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 112.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 126.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 235.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 112.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 171.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 126.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 126.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 112.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 171.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 235.000
+Total T: 21000 Episode Num: 21 Episode T: 1000 Reward: 187.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 235.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 189.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 112.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 256.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 126.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 112.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 256.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 189.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 126.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 235.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 202.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 232.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 189.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 256.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 171.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 189.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 202.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 126.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 256.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 256.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 202.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 171.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 189.000
+Total T: 22000 Episode Num: 22 Episode T: 1000 Reward: 112.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 232.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 189.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 171.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 137.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 256.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 171.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 137.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 232.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 256.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 189.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 223.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 220.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 232.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 137.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 202.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 223.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 232.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 256.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 137.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 137.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 223.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 232.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 202.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 220.000
+Total T: 23000 Episode Num: 23 Episode T: 1000 Reward: 171.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 202.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 232.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 233.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 137.000
+---------------------------------------
+Evaluation over 10 episodes: 214.900
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 253.500
+---------------------------------------
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 202.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 233.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 220.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 137.000
+---------------------------------------
+Evaluation over 10 episodes: 214.900
+---------------------------------------
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 232.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 220.000
+---------------------------------------
+Evaluation over 10 episodes: 214.900
+---------------------------------------
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 233.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 223.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 220.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 137.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 233.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 233.000
+---------------------------------------
+Evaluation over 10 episodes: 241.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 253.500
+---------------------------------------
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 220.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 223.000
+---------------------------------------
+Evaluation over 10 episodes: 241.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 253.500
+---------------------------------------
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 223.000
+Total T: 24000 Episode Num: 24 Episode T: 1000 Reward: 202.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 220.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 269.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 233.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 194.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 223.000
+---------------------------------------
+Evaluation over 10 episodes: 253.500
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 241.000
+---------------------------------------
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 269.000
+---------------------------------------
+Evaluation over 10 episodes: 214.900
+---------------------------------------
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 233.000
+---------------------------------------
+Evaluation over 10 episodes: 253.500
+---------------------------------------
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 220.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 269.000
+---------------------------------------
+Evaluation over 10 episodes: 241.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 241.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 253.500
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 214.900
+---------------------------------------
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 233.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 153.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 194.000
+---------------------------------------
+Evaluation over 10 episodes: 214.900
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 253.500
+---------------------------------------
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 153.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 194.000
+---------------------------------------
+Evaluation over 10 episodes: 241.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 214.900
+---------------------------------------
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 208.000
+Total T: 25000 Episode Num: 25 Episode T: 1000 Reward: 223.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 245.000
+---------------------------------------
+Evaluation over 10 episodes: 241.000
+---------------------------------------
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 194.000
+---------------------------------------
+Evaluation over 10 episodes: 253.500
+---------------------------------------
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 208.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 153.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 269.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 194.000
+---------------------------------------
+Evaluation over 10 episodes: 241.000
+---------------------------------------
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 208.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 153.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 153.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 194.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 245.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 182.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 269.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 269.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 182.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 245.000
+---------------------------------------
+Evaluation over 10 episodes: 214.900
+---------------------------------------
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 194.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 153.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 269.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 346.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 285.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 153.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 245.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 346.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 194.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 182.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 208.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 245.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 346.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 153.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 182.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 182.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 245.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 285.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 192.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 208.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 192.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 208.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 285.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 245.000
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 269.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 182.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 250.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 208.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 234.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 182.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 285.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 250.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 245.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 192.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 346.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 285.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 250.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 182.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 285.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 192.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 192.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 234.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 221.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 221.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 346.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 234.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 346.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 285.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 27000 Episode Num: 27 Episode T: 1000 Reward: 208.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 192.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 346.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 277.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 192.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 234.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 285.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 221.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 250.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 234.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 192.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 234.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 221.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 221.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 277.000
+---------------------------------------
+Evaluation over 10 episodes: 270.500
+---------------------------------------
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 277.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 250.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 250.000
+---------------------------------------
+Evaluation over 10 episodes: 275.100
+---------------------------------------
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 234.000
+Total T: 28000 Episode Num: 28 Episode T: 1000 Reward: 346.000
+---------------------------------------
+Evaluation over 10 episodes: 270.500
+---------------------------------------
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 250.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 221.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 221.000
+---------------------------------------
+Evaluation over 10 episodes: 270.500
+---------------------------------------
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 277.000
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 234.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+---------------------------------------
+Evaluation over 10 episodes: 275.100
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 218.800
+---------------------------------------
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 277.000
+---------------------------------------
+Evaluation over 10 episodes: 218.800
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 275.100
+---------------------------------------
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 221.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 277.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 178.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 341.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 277.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 178.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+---------------------------------------
+Evaluation over 10 episodes: 275.100
+---------------------------------------
+Total T: 29000 Episode Num: 29 Episode T: 1000 Reward: 250.000
+---------------------------------------
+Evaluation over 10 episodes: 275.100
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 218.800
+---------------------------------------
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 178.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+---------------------------------------
+Evaluation over 10 episodes: 270.500
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 275.100
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 218.800
+---------------------------------------
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 277.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 341.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 148.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 341.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 148.000
+---------------------------------------
+Evaluation over 10 episodes: 218.800
+---------------------------------------
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+---------------------------------------
+Evaluation over 10 episodes: 270.500
+---------------------------------------
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 275.000
+---------------------------------------
+Evaluation over 10 episodes: 270.500
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 275.100
+---------------------------------------
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 87.000
+---------------------------------------
+Evaluation over 10 episodes: 218.800
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 270.500
+---------------------------------------
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 275.000
+---------------------------------------
+Evaluation over 10 episodes: 218.800
+---------------------------------------
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 341.000
+Total T: 30000 Episode Num: 30 Episode T: 1000 Reward: 181.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 341.000
+---------------------------------------
+Evaluation over 10 episodes: 275.100
+---------------------------------------
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 148.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 275.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 178.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 341.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 148.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 87.000
+---------------------------------------
+Evaluation over 10 episodes: 218.800
+---------------------------------------
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 87.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 182.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 182.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 148.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 178.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 289.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 178.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 307.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 341.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 148.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 178.000
+---------------------------------------
+Evaluation over 10 episodes: 270.500
+---------------------------------------
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 289.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 148.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 87.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 87.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 341.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 182.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 289.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 275.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 87.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 182.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 307.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 307.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 207.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 207.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 148.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 182.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 421.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 275.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 275.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 226.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 87.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 182.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 275.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 421.000
+Total T: 31000 Episode Num: 31 Episode T: 1000 Reward: 178.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 182.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 307.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 307.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 87.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 421.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 207.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 289.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 307.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 226.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 215.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 207.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 226.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 215.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 182.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 207.000
+Total T: 35000 Episode Num: 35 Episode T: 1000 Reward: 335.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 289.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 289.000
+Total T: 35000 Episode Num: 35 Episode T: 1000 Reward: 251.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 307.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 289.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 207.000
+Total T: 35000 Episode Num: 35 Episode T: 1000 Reward: 335.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 207.000
+Total T: 32000 Episode Num: 32 Episode T: 1000 Reward: 275.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 226.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 226.000
+Total T: 33000 Episode Num: 33 Episode T: 1000 Reward: 307.000
+Total T: 35000 Episode Num: 35 Episode T: 1000 Reward: 335.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 215.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 421.000
+Total T: 34000 Episode Num: 34 Episode T: 1000 Reward: 226.000
