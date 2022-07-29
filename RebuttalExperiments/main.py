@@ -33,7 +33,7 @@ parser.add_argument("--env", default="HalfCheetah-v3")          # OpenAI gym env
 parser.add_argument("--seed", default=0, type=int)              # Sets Gym, PyTorch and Numpy seeds
 parser.add_argument("--start_timesteps", default=25e3, type=int)  # Time steps initial random policy is used
 parser.add_argument("--eval_freq", default=5e3, type=int)       # How often (time steps) we evaluate
-parser.add_argument("--max_timesteps", default=2e5, type=int)   # Max time steps to run environment
+parser.add_argument("--max_timesteps", default=5e5, type=int)   # Max time steps to run environment
 parser.add_argument("--expl_noise", default=0.1)                # Std of Gaussian exploration noise
 parser.add_argument("--batch_size", default=256, type=int)      # Batch size for both actor and critic
 parser.add_argument("--discount", default=0.99)                 # Discount factor
@@ -54,7 +54,7 @@ import TD3
 import utils
 import os
 
-file_name = f"{args.policy}_{args.env}_{args.gpu_idx}_{args.reward_shift}_{args.velo}"
+file_name = f"{args.policy}_{args.env}_{args.gpu_idx}_{args.reward_shift}_L{args.velo}"
 print("---------------------------------------")
 print(f"Policy: {args.policy}, Env: {args.env}, Seed: {args.seed}")
 print("---------------------------------------")
