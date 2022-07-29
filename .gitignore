@@ -1,2 +1,4 @@
 *.npy
 *.out
+RebuttalExperiments/*.out
+RebuttalExperiments/results/*.npy
