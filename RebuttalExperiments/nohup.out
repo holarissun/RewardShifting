@@ -2618,3 +2618,11 @@ Evaluation over 10 episodes: 22.800
 ---------------------------------------
 Total T: 2000 Episode Num: 2 Episode T: 1000 Reward: 0.000
 Total T: 3000 Episode Num: 3 Episode T: 1000 Reward: 0.000
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+---------------------------------------
+Evaluation over 10 episodes: 0.000
+---------------------------------------
+Total T: 26000 Episode Num: 26 Episode T: 1000 Reward: 11.000
+Total T: 4000 Episode Num: 4 Episode T: 1000 Reward: 0.000
