@@ -45,6 +45,7 @@ parser.add_argument("--save_model", action="store_true")        # Save model and
 parser.add_argument("--load_model", default="")                 # Model load file name, "" doesn't load, "default" uses file_name
 parser.add_argument("--reward_shift", default=0, type=float)    # Reward shift for DDPG/TD3
 parser.add_argument("--gpu_idx", default=0, type=int)           # GPU index
+parser.add_argument("--velo", default=2.5, type=float)
 args = parser.parse_args()
 torch.cuda.set_device(args.gpu_idx)
 import DDPG
@@ -53,7 +54,7 @@ import TD3
 import utils
 import os
 
-file_name = f"{args.policy}_{args.env}_{args.gpu_idx}_{args.reward_shift}"
+file_name = f"{args.policy}_{args.env}_{args.gpu_idx}_{args.reward_shift}_{args.velo}"
 print("---------------------------------------")
 print(f"Policy: {args.policy}, Env: {args.env}, Seed: {args.seed}")
 print("---------------------------------------")
@@ -67,10 +68,10 @@ if args.save_model and not os.path.exists("./models"):
 env = gym.make(args.env)
 
 # Set seeds
-env.seed(args.seed)
-env.action_space.seed(args.seed)
-torch.manual_seed(args.seed)
-np.random.seed(args.seed)
+#env.seed(args.seed)
+#env.action_space.seed(args.seed)
+#torch.manual_seed(args.seed)
+#np.random.seed(args.seed)
 
 state_dim = env.observation_space.shape[0]
 action_dim = env.action_space.shape[0]
