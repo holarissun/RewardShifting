@@ -45,7 +45,7 @@ parser.add_argument("--save_model", action="store_true")        # Save model and
 parser.add_argument("--load_model", default="")                 # Model load file name, "" doesn't load, "default" uses file_name
 parser.add_argument("--reward_shift", default=0, type=float)    # Reward shift for DDPG/TD3
 parser.add_argument("--gpu_idx", default=0, type=int)           # GPU index
-parser.add_argument("--velo", default=2.5, type=float)
+parser.add_argument("--velo", default=2.0, type=float)
 args = parser.parse_args()
 torch.cuda.set_device(args.gpu_idx)
 import DDPG
