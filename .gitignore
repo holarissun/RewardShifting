@@ -3,3 +3,7 @@
 RebuttalExperiments/*.out
 RebuttalExperiments/results/*.npy
 RebuttalExperiments/*.ipynb
+RebuttalExperiments/*.ipynb_checkpoints
+RebuttalExperiments/__pycache__
+RebuttalExperiments/*.sh
+RebuttalExperiments/figs/*
