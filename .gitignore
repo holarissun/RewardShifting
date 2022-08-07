@@ -2,3 +2,4 @@
 *.out
 RebuttalExperiments/*.out
 RebuttalExperiments/results/*.npy
+RebuttalExperiments/*.ipynb
