@@ -30,8 +30,11 @@ Here are several potential extensions of our work:
 ## 📝 BibTex
 
 ```
-@article{sun2022exploiting,
-  title={Exploiting reward shifting in value-based deep rl},
+@article{sun2022exploit,
+  title={Exploit Reward Shifting in Value-Based Deep-RL: Optimistic Curiosity-Based Exploration and Conservative Exploitation via Linear Reward Shaping},
   author={Sun, Hao and Han, Lei and Yang, Rui and Ma, Xiaoteng and Guo, Jian and Zhou, Bolei},
-  journal={arXiv preprint arXiv:2209.07288},
-  year={2022}}
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={37719--37734},
+  year={2022}
+}
