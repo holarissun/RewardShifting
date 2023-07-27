@@ -1,3 +1,16 @@
+# 🙋 How To Design A Reward Function For Your Reinforcement Learning Task (In Value-Based RL)? 
+
+- To boost exploration, you should use negative rewards, such that the agent will visit more unvisited state-action pairs.
+- To boost exploitation, you should use positive rewards, such that the agent will repeatedly visit previously visited state-action pairs.
+
+### Our paper provides a detailed analysis of how reward design affects the learning process.
+#### This repo is related to the topic of
+  - Reward Design in Deep RL
+  - Reward Design for Better Exploration
+  - Offline-RL (conservation via reward shifting)
+  - Value-Based Deep-RL
+    
+
 # 🚀 Let us Exploit Reward Shifting in Value-Based Deep-RL!
 
 ### 🌐 [Project Page](https://sites.google.com/view/rewardshaping)
