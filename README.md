@@ -7,6 +7,8 @@
 #### This repo is related to the topic of
   - Reward Design in Deep RL
   - Reward Design for Better Exploration
+  - Ensemble in Deep Reinforcement Learning
+  - Diversity Boosting in Q-Value Network Ensemble
   - Offline-RL (conservation via reward shifting)
   - Value-Based Deep-RL
     
